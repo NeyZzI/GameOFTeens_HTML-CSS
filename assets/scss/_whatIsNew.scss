@@ -1,0 +1,404 @@
+.rr {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 40px;
+    color: #243976;
+    margin-left: 350px;
+}
+
+.grafic {
+    width: 500px;
+    h2 {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-size: 20px;
+        color: #243976;
+        margin-left: 200px;
+        margin-top: 25px;
+    }
+    img {
+        margin-left: 250px;
+    }
+
+    p {
+        width: 300px;
+        text-align: center;
+        margin-left: 175px;
+        margin-top: -10px;
+    }
+}
+
+.video {
+    h2 {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-size: 20px;
+        color: #243976;
+        margin-left: 570px;
+        margin-top: 5px;
+    }
+    img {
+        margin-left: 650px;
+        margin-top: -450px;
+    }
+
+    p {
+        width: 300px;
+        text-align: center;
+        margin-left: 590px;
+        margin-top: -10px;
+    }
+}
+
+.balanced {
+    h2 {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-size: 20px;
+        color: #243976;
+        margin-left: 1100px;
+        margin-top: 25px;
+    }
+    img {
+        margin-left: 1150px;
+        margin-top: -1000px;
+    }
+
+    p {
+        width: 300px;
+        text-align: center;
+        margin-left: 1080px;
+        margin-top: -10px;
+    }
+}
+
+.firstMonth {
+    .priceList {
+        margin-top: 100px;
+        margin-left: 250px;
+        display: flex;
+        border-radius: 30px;
+        background-color: #EFF2FD;
+        width: 1000px;
+        height: 150px;
+    }
+    button {
+        background: linear-gradient(26.5deg, #4271DF 16.72%, #789CF1 95.45%);
+        border-radius: 15px;
+        transition: 0.3s;
+        width: 190px;
+        height: 50px;
+        color: white;
+        font-family: 'Open Sans';
+        font-size: 15px;
+        margin-left: 100px;
+        margin-top: 80px;
+        }
+
+    button:hover {
+        background: linear-gradient(272.77deg, #864FF1 0%, #49B3F7 100%);
+        box-shadow: 0px 6px 21px rgba(104, 130, 245, 0.67);
+        border-radius: 90px;   
+        transition: 0.3s; 
+        scale: 110%;
+        }
+    h2 {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-size: 30px;
+        color: #243976;
+        width: 700px;
+        margin-left: 30px;
+        display: flex;
+        margin-top: 30px;
+    }
+    p {
+        display: flex;
+        margin-top: 70px;
+        margin-left: -698px;
+        width: 400px;
+    }
+    img {
+        margin-top: -70px;
+    }
+}
+
+.howMuchPrise {
+    margin-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+    background: #EFF2FD;
+    .firstFourth {
+        background: #FFFFFF;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 25px 25px 0px 50px;
+        width: 300px;
+        height: 500px;
+        margin-left: -1200px;
+        margin-top: 150px;
+        list-style: none;
+
+        .prise {
+            background: linear-gradient(272.77deg, #864FF1 0%, #49B3F7 100%);
+            box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.15);
+            border-radius: 25px;
+            width: 251px;
+            height: 50px;
+            font-weight: 500;
+            font-size: 30px;
+            color: white;
+            text-align: center;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            margin-left: 100px;
+            margin-top: -20px;
+        }
+
+        h2 {
+            font-family: 'Open Sans';
+            font-style: normal;
+            font-size: 20px;
+            color: #243976;
+            width: 100px;
+            margin-left: 30px;
+            display: flex;
+            margin-top: -30px;
+        }
+
+        .info {
+            background: linear-gradient(26.5deg, #4271DF 16.72%, #789CF1 95.45%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-size: 20px;
+            width: 150px;
+            margin-top: -15px;
+            margin-left: 34px;
+        }
+
+        ul {
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 103.2%;
+            display: flex;
+            align-items: center;
+            color: #243976;
+
+        }
+
+        img {
+            margin-left: 220px;
+        }
+
+        .joinLeasson5 {
+            background: linear-gradient(26.5deg, #4271DF 16.72%, #789CF1 95.45%);
+            border-radius: 15px;
+            transition: 0.3s;
+            width: 190px;
+            height: 50px;
+            color: white;
+            font-family: 'Open Sans';
+            font-size: 15px;
+            margin-left: 30px;
+            margin-top: -110px;
+            padding-left: 50px;
+            padding-top: 10px;
+            display: flex;
+            }
+    
+        .joinLeasson5:hover {
+            background: linear-gradient(272.77deg, #864FF1 0%, #49B3F7 100%);
+            box-shadow: 0px 6px 21px rgba(104, 130, 245, 0.67);
+            border-radius: 90px;   
+            transition: 0.3s; 
+            scale: 110%;
+        }
+    }
+
+    .fifthEight {
+        background: #FFFFFF;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 25px 25px 0px 50px;
+        width: 300px;
+        height: 500px;
+        margin-left: 200px;
+        margin-top: 150px;
+        list-style: none;
+
+        .prise {
+            background: linear-gradient(272.77deg, #864FF1 0%, #49B3F7 100%);
+            box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.15);
+            border-radius: 25px;
+            width: 251px;
+            height: 50px;
+            font-weight: 500;
+            font-size: 30px;
+            color: white;
+            text-align: center;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            margin-left: 100px;
+            margin-top: -20px;
+        }
+
+        h2 {
+            font-family: 'Open Sans';
+            font-style: normal;
+            font-size: 20px;
+            color: #243976;
+            width: 100px;
+            margin-left: 30px;
+            display: flex;
+            margin-top: -30px;
+        }
+
+        .info {
+            background: linear-gradient(26.5deg, #4271DF 16.72%, #789CF1 95.45%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-size: 20px;
+            width: 150px;
+            margin-top: -15px;
+            margin-left: 34px;
+        }
+
+        ul {
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 103.2%;
+            display: flex;
+            align-items: center;
+            color: #243976;
+
+        }
+
+        img {
+            margin-left: 270px;
+            margin-top: -120px;
+        }
+
+        .joinLeasson5 {
+            background: linear-gradient(26.5deg, #4271DF 16.72%, #789CF1 95.45%);
+            border-radius: 15px;
+            transition: 0.3s;
+            width: 190px;
+            height: 50px;
+            color: white;
+            font-family: 'Open Sans';
+            font-size: 15px;
+            margin-left: 30px;
+            margin-top: -110px;
+            padding-left: 50px;
+            padding-top: 10px;
+            display: flex;
+            }
+    
+        .joinLeasson5:hover {
+            background: linear-gradient(272.77deg, #864FF1 0%, #49B3F7 100%);
+            box-shadow: 0px 6px 21px rgba(104, 130, 245, 0.67);
+            border-radius: 90px;   
+            transition: 0.3s; 
+            scale: 110%;
+        }
+    }
+
+    .nineEleven {
+        background: #FFFFFF;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 25px 25px 0px 50px;
+        width: 300px;
+        height: 500px;
+        margin-left: 150px;
+        margin-top: 150px;
+        list-style: none;
+
+        .prise {
+            background: linear-gradient(272.77deg, #864FF1 0%, #49B3F7 100%);
+            box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.15);
+            border-radius: 25px;
+            width: 251px;
+            height: 50px;
+            font-weight: 500;
+            font-size: 30px;
+            color: white;
+            text-align: center;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            margin-left: 100px;
+            margin-top: -20px;
+        }
+
+        h2 {
+            font-family: 'Open Sans';
+            font-style: normal;
+            font-size: 20px;
+            color: #243976;
+            width: 100px;
+            margin-left: 30px;
+            display: flex;
+            margin-top: -30px;
+        }
+
+        .info {
+            background: linear-gradient(26.5deg, #4271DF 16.72%, #789CF1 95.45%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-size: 20px;
+            width: 150px;
+            margin-top: -15px;
+            margin-left: 34px;
+        }
+
+        ul {
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 103.2%;
+            display: flex;
+            align-items: center;
+            color: #243976;
+
+        }
+
+        img {
+            margin-left: 270px;
+            margin-top: -200px;
+            display: flex;
+        }
+
+        .joinLeasson5 {
+            background: linear-gradient(26.5deg, #4271DF 16.72%, #789CF1 95.45%);
+            border-radius: 15px;
+            transition: 0.3s;
+            width: 190px;
+            height: 50px;
+            color: white;
+            font-family: 'Open Sans';
+            font-size: 15px;
+            margin-left: 30px;
+            margin-top: -100px;
+            padding-left: 50px;
+            padding-top: 10px;
+            display: flex;
+            }
+    
+        .joinLeasson5:hover {
+            background: linear-gradient(272.77deg, #864FF1 0%, #49B3F7 100%);
+            box-shadow: 0px 6px 21px rgba(104, 130, 245, 0.67);
+            border-radius: 90px;   
+            transition: 0.3s; 
+            scale: 110%;
+        }
+    }
+
+}

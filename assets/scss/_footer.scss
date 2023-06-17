@@ -1,0 +1,71 @@
+.footer {   
+    background: #EFF2FD;
+    display: flex;
+    margin-top: 100px;
+
+    .logo1 {
+        width: 500px;
+        height: 100px;
+        margin-left: 100px;
+    }
+
+    .cc {
+        margin-top: 120px;
+        margin-left: -330px;
+        width: 300px;
+    }
+    
+    h1 {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-size: 22px;
+        color: #243976;
+        width: 200px;
+    }
+
+    a {
+        margin-left: 380px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-size: 20px;
+        margin-top: 10px;
+        color: #243976;
+        font-weight: 400;
+        width: 200px;
+        gap: 30px;
+        display: flex;
+    }
+
+    .documents {
+        margin-left: -400px;
+        img {
+            display: flex;
+            margin-left: 380px;
+        }
+        a {
+            margin-top: -28px;
+            margin-left: 410px;
+        }
+    }
+
+    .contact {
+        .place1 {
+            margin-top: 20px;
+            margin-left: 190px;
+        }
+        .telepho {
+            margin-top: 20px;
+            margin-left: 199px;
+        }
+
+        .ad {
+            margin-left: 250px;
+            margin-top: -50px;
+        }
+
+        .elte {
+            margin-top: -40px;
+            margin-left: 250px;
+        }
+    }
+}

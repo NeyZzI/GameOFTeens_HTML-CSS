@@ -1,0 +1,35 @@
+button {
+    background: linear-gradient(26.5deg, #4271DF 16.72%, #789CF1 95.45%);
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: linear-gradient(272.77deg, #864FF1 0%, #49B3F7 100%);
+    border-radius: 25px;
+    transition: 0.3s;
+}
+
+a {
+    list-style: none;
+    text-decoration: none;
+    font-style: bold;
+    font-family: 'Manrope';
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 118%;
+    color: #243976;
+}
+
+
+@import 'schoolPresent';
+
+@import 'schoolOnline';
+
+@import 'leassonLove';
+
+@import 'whatIsNew';
+
+@import 'footer';

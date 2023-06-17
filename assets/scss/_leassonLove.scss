@@ -1,0 +1,153 @@
+.leassonLove {
+    background-color: #EFF2FD;
+    width: 1511px;
+    height: 600px;
+    padding-top: 5px;
+    display: flex;
+    .loveLove {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-size: 30px;
+        color: #243976;
+        margin-left: 120px;
+        margin-top: 50px;
+        width: 550px;
+    }
+
+    h2 {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-size: 20px;
+        color: #243976;
+        margin-left: 20px;
+    }
+    
+    .gameFication {
+        display: flex;
+        width: 520px;
+        margin-left: 100px;
+        transition: 0.3s;
+        p {
+            margin-top: 50px;
+            margin-left: -275px;
+            width: 400px;
+        }
+        img {
+            width: 30px;
+            height: 30px;
+            margin-top: 25px;
+            margin-left: 30px;
+        }
+    }
+
+    .gameFication:hover {
+        background-color: white;
+        border-radius: 30px;
+        transition: 0.3s;
+        h2 {
+            background: linear-gradient(272.77deg, #864FF1 0%, #49B3F7 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            transition: 1s;
+        }
+    }
+
+    .materialNo {
+        display: flex;
+        width: 520px;
+        margin-left: 100px;
+        margin-top: 10px;
+        transition: 0.3s;
+        h2 {
+            font-size: 18px;
+            width: 600px;
+        }
+        p {
+            margin-top: 50px;
+            margin-left: -522px;
+            width: 500px;
+        }
+        img {
+            width: 30px;
+            height: 30px;
+            margin-top: 25px;
+            margin-left: 30px;
+        }
+    }
+
+    .materialNo:hover {
+        background-color: white;
+        border-radius: 30px;
+        transition: 0.3s;
+        h2 {
+            background: linear-gradient(272.77deg, #864FF1 0%, #49B3F7 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            transition: 1s;
+        }
+    }
+
+    .noStress {
+        display: flex;
+        width: 520px;
+        margin-left: 100px;
+        transition: 0.3s;
+        p {
+            margin-top: 50px;
+            margin-left: -163px;
+            width: 400px;
+        }
+        img {
+            width: 30px;
+            height: 30px;
+            margin-top: 15px;
+            margin-left: 30px;
+        }
+    }
+
+    .noStress:hover {
+        background-color: white;
+        border-radius: 30px;
+        transition: 0.3s;
+        h2 {
+            background: linear-gradient(272.77deg, #864FF1 0%, #49B3F7 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            transition: 1s;
+        }
+    }
+
+    .calc {
+        display: flex;
+        margin-top: -500px;
+        margin-left: 800px;
+    }
+
+    .joinLeasson4 {
+        background: linear-gradient(26.5deg, #4271DF 16.72%, #789CF1 95.45%);
+        border-radius: 15px;
+        transition: 0.3s;
+        width: 190px;
+        height: 50px;
+        color: white;
+        font-family: 'Open Sans';
+        font-size: 15px;
+        margin-left: 180px;
+        margin-top: 10px;
+        }
+
+    .joinLeasson4:hover {
+        background: linear-gradient(272.77deg, #864FF1 0%, #49B3F7 100%);
+        box-shadow: 0px 6px 21px rgba(104, 130, 245, 0.67);
+        border-radius: 90px;   
+        transition: 0.3s; 
+        scale: 110%;
+    }
+}
+

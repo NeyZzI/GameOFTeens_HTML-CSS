@@ -1,0 +1,155 @@
+h1 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 40px;
+    color: #243976;
+    margin-left: 380px;
+}
+
+.onlineWork {
+    margin-top: 50px;
+
+    .komy {
+        display: flex;
+    }
+
+    .znaniya {
+        align-items: center;
+        margin-top: 150px;
+        margin-left: -820px;
+        img {
+            margin-left: 70px;
+        }
+        p {
+            display: flex;
+            width: 200px;
+            text-align: center;
+        }
+    }
+    .travel {
+        margin-top: 150px;
+        margin-left: 30px;
+        img {
+            margin-left: 40px;
+        }
+        p {
+            display: flex;
+            text-align: center;
+            width: 100px;
+        }
+    }
+    .family {
+        margin-top: 150px;
+        margin-left: 80px;
+        img { 
+            margin-left: 20px;
+        }
+        p {
+            display: flex;
+            text-align: center;
+            width: 100px;
+        }
+    }
+    .sport {
+        margin-top: 146px;
+        margin-left: 60px;
+        img { 
+            margin-left: 20px;
+        }
+        p {
+            display: flex;
+            text-align: center;
+            width: 100px;
+        }
+    }
+    .world {
+        margin-top: 150px;
+        margin-left: 70px;
+        img { 
+            margin-left: 40px;
+        }
+        p {
+            display: flex;
+            text-align: center;
+            width: 150px;
+        }
+    }
+
+    .firstMonth {
+        .priceList {
+            margin-top: 100px;
+            margin-left: 250px;
+            display: flex;
+            border-radius: 30px;
+            background-color: #EFF2FD;
+            width: 1000px;
+            height: 150px;
+        }
+        button {
+            background: linear-gradient(26.5deg, #4271DF 16.72%, #789CF1 95.45%);
+            border-radius: 15px;
+            transition: 0.3s;
+            width: 190px;
+            height: 50px;
+            color: white;
+            font-family: 'Open Sans';
+            font-size: 15px;
+            margin-left: 100px;
+            margin-top: 80px;
+            }
+    
+        button:hover {
+            background: linear-gradient(272.77deg, #864FF1 0%, #49B3F7 100%);
+            box-shadow: 0px 6px 21px rgba(104, 130, 245, 0.67);
+            border-radius: 90px;   
+            transition: 0.3s; 
+            scale: 110%;
+            }
+        h2 {
+            font-family: 'Open Sans';
+            font-style: normal;
+            font-size: 30px;
+            color: #243976;
+            width: 700px;
+            margin-left: 30px;
+            display: flex;
+            margin-top: 30px;
+        }
+        p {
+            display: flex;
+            margin-top: 70px;
+            margin-left: -698px;
+            width: 400px;
+        }
+        img {
+            margin-top: -70px;
+        }
+    }
+}
+
+.howLeasons {
+    display: flex;
+
+    img {
+        margin-top: 50px;
+        margin-left: 130px;
+        width: 190px;
+        height: 150px;
+    }
+
+    h3 {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-size: 20px;
+        color: #243976;
+        margin-left: 120px;
+        width: 200px;
+        text-align: center;
+    }
+
+    p {
+        margin-left: 100px;
+        text-align: center;
+        width: 250px;
+    }
+}
